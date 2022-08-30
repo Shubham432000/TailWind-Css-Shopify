@@ -5,7 +5,7 @@
 #### I have build a template of HTML and CSS Project using my core CSS skill and Tailwind-Css 
 #### It took me 18 hours to do the project
 
-> My Live Deployed Website Link [Website](https://stalwart-sprinkles-3af9ed.netlify.app)  
+> My Live Deployed Website Link [Website](https://gentle-brioche-f58a5e.netlify.app)  
 
 
 ![shopify](https://user-images.githubusercontent.com/101961231/187362843-6a25de16-30e5-4320-8a1b-6366621c7f0b.PNG))
@@ -23,4 +23,4 @@
 8. I Learn Z-index property.
 9. I also Learn Tailwind-Css for responsive website.
 10. I Learn various size responsive like sm,md,lg,xl,2xl etc.
-11.I am using Tailwind Css creating webpage faster without using .Css extension file.
+11. I am using Tailwind Css creating webpage faster without using .Css extension file.
